@@ -49,6 +49,7 @@ To measure whether Championship teams **overperform or underperform the Over/Und
 * Diverging league-wide efficiency map
 * Calibration table (Expected vs Actual Over 2.5 rates)
 * Ranked team efficiency dashboard
+<img width="1590" height="770" alt="image" src="https://github.com/user-attachments/assets/da106cea-2b7a-467a-a4d1-bb14979d9730" />
 
 ---
 
